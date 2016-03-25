@@ -56,7 +56,7 @@ Está e a estrutura básica do html
 
 ### Scripting
 
-* <template> : Container para conteúdo no lado cliente instanciado em tempo de execução usando JavaScript;
+* **<template>** : Container para conteúdo no lado cliente instanciado em tempo de execução usando JavaScript;
 
 ### Seções
 
