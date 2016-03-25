@@ -15,3 +15,23 @@ O HTML tem como propósito ser uma linguagem entendida universalmente. Ela ganho
 Apesar de que o foco do HTML era padronizar a forma de publicação de conteúdo, entre 1993 e 1995, ela ganhou algumas novas versões (HTML+, HTML2.0, HTML3.0) mas só em 1997, a W3C trabalhou em uma versão 3.2 da linguagem, permitindo que ela fosse tratada como um padrão comum. O grande diferencial do HTML é sua interoperabilidade. Diferente das outras linguagens, esta não dependia de plataforma alguma, podendo ser desenvolvida e apresentada em diversos dispositivos.
 
 ![HTML5 3.2 W3C](./images/html5-img1.png)
+
+Além da W3C que estava focada no desenvolvimento de uma segunda versão do XHTML, um grupo chamado _Web Hypertext Application Technology Working Group_ ou WHATWG estava trabalhando em uma versão do HTML em que trazia mais flexbilidade para a produção de websites e sistemas baseados na web. Fundada pelos desenvolvedores de empresas como Mozilla, Apple e Opera em 2004 que perceberam falhas no caminho em que a web estava tomando junto ao XHTML, por isso, estas organizações se juntaram e se comprometeram a desenvolver o que hoje conhecemos por HTML5.
+
+Por volta de 2006, o trabalho deste grupo passou a ser conhecido mundialmente, inclusive pela W3C. Em outubro de 2006, Tim Berners-Lee anunciou que trabalharia juntamente ao WHATWG promovendo o desenvolvimento do HTML5 em detrimento ao XHTML2, entretanto, seria um trabalho paralelo. O XHTML2 foi mantido de acordo com as mudanças do HTML, mas, em 2009, o grupo responsável pelo XHTML2 parou suas atividades.
+
+Nisso, o HTML4 apareceu, e os desenvolvedores dele (a W3C) informou que algumas boas praticas deveriam ser seguidas ao produzir códigos client-side. Deste esta época, assuntos como a separação da estrutura de código com a formatação e princícipos de acessibilidades foram trazidos para discução. Apesar de grandes mudanças, o HTML4 ainda não facilitava a manipulação de elementos via CSS e JS. Caso quisesse algo como isso, um grande script deveria ser escrito, com bugs, e que muitas vezes não funcionavam em todos os navegadores.
+
+Por fim, aparece o HTML5!
+
+![O novo (e forte) HTML5](./images/html5-img.png)
+
+O grande diferencial desta versão é que foi definido algumas APIs base para a arquitetura web, conhecidas como _DOM Level 0_. Um dos principais objetivos foi facilitar a manupulação de elementos de forma mais transparente e menos intrusiva para o usuário final.
+
+Diferente das versões anteriores, o HTML5 fornece ferramentas para CSS e JS trabalharem da melhor forma possível. Responsável pelas novas APIs, a manipulação das caracteristicas destes elementos foi facilitada, de forma que o website ou aplicação se torne mais leve e funcional.
+
+Nesta versão do HTML, foram criadas novas tags e outras foram modificadas, trazendo um padrão universal para a criação de seções comuns e específicas como rodapé, cabeçalho, menus, etc. Desta forma, fica mais facil localizar determinadas seções de forma automática. Atributos e elementos destas seções também foram modificados e agora podem ser reutilizados de forma mais eficaz.
+
+Hoje, o HTML5 permite a escrita de um código mais organizado. Muito mais semântica e menos código. Mais interatividade e menos plugins, resultando em uma maior performance.
+
+Bem vindo a web do futuro, onde o código é realmente interoperável, facilitando a reutilização da informação de diversas formas e pronta para a exibição em qualquer dispositivo.
