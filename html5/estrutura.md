@@ -24,7 +24,7 @@ Nisso, o HTML4 apareceu, e os desenvolvedores dele (a W3C) informou que algumas 
 
 Por fim, aparece o HTML5!
 
-![O novo (e forte) HTML5](./images/html5-img.png)
+![O novo (e forte) HTML5](./images/html5-img2.png)
 
 O grande diferencial desta versão é que foi definido algumas APIs base para a arquitetura web, conhecidas como _DOM Level 0_. Um dos principais objetivos foi facilitar a manupulação de elementos de forma mais transparente e menos intrusiva para o usuário final.
 
