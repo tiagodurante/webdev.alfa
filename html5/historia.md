@@ -36,57 +36,6 @@ Hoje, o HTML5 permite a escrita de um código mais organizado. Muito mais semân
 
 Bem vindo a web do futuro, onde o código é realmente interoperável, facilitando a reutilização da informação de diversas formas e pronta para a exibição em qualquer dispositivo.
 
-# Novidades do HTML5
-
-Está e a estrutura básica do html
-´´´HTML
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>Estrutura do HTML</title>
-  </head>
-  <body >
-    Hello World
-  </body>
-</html>
-´´´
-
-# Novos elementos
-
-### Scripting
-
-* *template* : Container para conteúdo no lado cliente instanciado em tempo de execução usando JavaScript;
-
-### Seções
-
-* section : Define a seção do Documento;
-* nav : Define uma seção que contém apenas links de navegação;
-* article : Define que pode existir uma forma independente do resto do conteúdo. Esta tag poderia ser um post no fórum, um artigo de revista ou jornal, uma entrada de log na web, um comentário, ou qualquer outro item independente do conteúdo;
-* aside : Define  um contúdo reservado do resto da página. Caso seja removida, o conteúdo restante ainda faz sentido;
-* header : Define o cabeçalho de uma página ou seção;
-* footer : Define o rodapé de uma página ou seção;
-* main : Define o conteúdo principal ou importante do documento. Existe apenas um elemento <main> e uma página.
-
-### Agrupando conteúdos
-
-* figcaption : Representa o conteúdo de uma figura
-* figure : Tabalha junto com o *figcaption*, o *figure* permite marcar diagramas, ilustrações, fotos e até mesmo fragmentos de código, etc;
-
-### Semântica textual
-
-* data : Associa o seu conteúdo a um equivalente legível por máquina.(Este elemento esta apenas na versão padrão HTML do WHATWG, e não documentado na versão HTML5 da W3C);
-* time : Representa um valor de data e hora, eventualmente com um equivalente legível por máquina;
-* mark : Representa um texto de referência;
-* ruby : Representa um conteúdo marcado com anotações em ruby;
-* rt : Representa uma anotação em ruby;
-* rp : Representa o parentêses em volta da anotação em ruby, usado para apresenta a anotação como meio alternativo para os browsers que não suportam a forma normal;
-* wbr : Representa uma quebra de linha;
-
-### Conteúdo embutido
-
-* embed : Representa a integração com algo externo, uma aplicação ou conteúdo interativo;
-
 
 > Referência
-> http://www.w3c.br/cursos/html5/conteudo/capitulo1.html
+> [Visão geral do HTML5](http://www.w3c.br/cursos/html5/conteudo/capitulo1.html)

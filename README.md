@@ -11,6 +11,6 @@ Apresentação do material trabalhado na pós de desenvolvimento web e mobile, d
 Cada tópico abaixo representa-rá uma matéria do curso, junto de uma referência do professor.
 
 - **HTML5**, ministrado pelo professor [Anderson Fernandes Burnes](http://professorburnes.com.br/index)
-  - [Estrutura](./html5/estrutura.md)
+  - [História](./html5/história.md)
   - [Novas tags](./html5/novas_tags.md)
   - [Formulários](./html5/forms.md)
