@@ -1,4 +1,4 @@
-# Estrutura do HTML5
+# História do HTML5
 
 Para começar o assunto sobre HTML5, nada melhor do que apresentar aos mais leigos, um pouco da história desta linguagem. De acordo com a W3C (responsável por desenvolver padrões para a web), define que a web é baseada em 3 pilates:
 

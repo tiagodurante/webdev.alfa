@@ -1,7 +1,7 @@
 # Novas tags do HTML5
 
 Está e a estrutura básica do html
-´´´HTML
+```HTML
 <!DOCTYPE html>
 <html>
   <head>
@@ -12,7 +12,7 @@ Está e a estrutura básica do html
     Hello World
   </body>
 </html>
-´´´
+```
 
 # Novos elementos
 
