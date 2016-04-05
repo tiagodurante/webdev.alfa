@@ -27,12 +27,18 @@ Estes atributos permitem que o formulário se torne mais transparente aos olhos 
 
 * **autofocus** : foca o input no momento em que a página é carregada;
 ```html
-<input type="email" name="email" id="email" autofocus>
+<input type="email"
+        name="email"
+        id="email"
+        autofocus>
 ```
 
 * **autocomplete** : caso ele tenha sido preenchido anteriormente, permite com que o campo exiba valores ja usados naquele campo;
 ```html
-<input type="email" name="email" id="email" autocomplete>
+<input type="email"
+        name="email"
+        id="email"
+        autocomplete>
 ```
 
 * **form** : permite que elementos de entrada possam ser utilizados em diversos lugares da página;
@@ -42,15 +48,26 @@ Estes atributos permitem que o formulário se torne mais transparente aos olhos 
 
 * **placeholder** : exibe um tipo de dica para o usuário. Por default, ele aparece com uma cor cinza clara, dentro do input. O desenvolvedor pode utilizar este atributo para indicar a forma de dado que deve ser inserida ao usuário;
 ```html
-<input type="number" name="data" id="data" placeholder="Digite sua idade">
+<input type="number"
+        name="data"
+        id="data"
+        placeholder="Digite sua idade">
 ```
 
 * **required** : valida se o input foi corretamente preenchido, de acordo com os artributos que o desenvolvedor estabeleceu;
 ```html
-<input type="number" name="data" id="data" placeholder="Digite sua idade" required>
+<input type="number"
+        name="data"
+        id="data"
+        placeholder="Digite sua idade"
+        required>
 ```
 
 * **pattern** : permite utilizar expressões regulares para validar os campos, sem a necessidade de JavaScript;
 ```html
-<input type="text" name="cpf" id="cpf" placeholder="Digite seu CPF" required pattern="\d{3}\.\d{3}\.\d{3}-\d{2}"      title="Digite o CPF no formato 000.000.000-00">
+<input type="text"
+        name="cpf" id="cpf"
+        placeholder="Digite seu CPF"
+        required pattern="\d{3}\.\d{3}\.\d{3}-\d{2}"
+        title="Digite o CPF no formato 000.000.000-00">
 ```
