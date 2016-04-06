@@ -4,7 +4,7 @@ Criado por **Tiago Amado Durante**
 
 Formado em **Análise e Desenvolvimento de Sistemas** pelo [UniCesumar](http://www.unicesumar.edu.br/site.php)
 
-Cursando pós graduação em **WebDev Mobile** na [Faculdade Alfa](http://www.alfaumuarama.com.br/faculdade/)
+Cursando pós graduação em **Desenvolvimento Web Mobile** na [Faculdade Alfa](http://www.alfaumuarama.com.br/faculdade/)
 
 Apresentação do material trabalhado na pós de desenvolvimento web e mobile, da Faculdade Alfa (Umuarama/PR). Esta pagina aborda os mais variados assuntos tratados nas aulas, afim de promover um melhor estudo e aproveitamento das aulas.
 

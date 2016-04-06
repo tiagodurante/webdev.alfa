@@ -68,6 +68,6 @@ Estes atributos permitem que o formulário se torne mais transparente aos olhos 
 <input type="text"
         name="cpf" id="cpf"
         placeholder="Digite seu CPF"
-        required pattern="\d{3}\.\d{3}\.\d{3}-\d{2}"
+        required pattern="\d{3}\.\d{3}\.\d{3}-\d{2}\"
         title="Digite o CPF no formato 000.000.000-00">
 ```

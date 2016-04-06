@@ -25,6 +25,9 @@ WAV | audio/wav
 * **controls** : exibe os controles de play/pause, volume e tempo de execução do audio;
 * **autoplay** : o audio é executado logo que a página é carregada;
 * **loop** : faz com que o audio continue em execução, mesmo que termine;
+* **muted** : carrega o audio com o audio mutado;
+* **preload** : exibe informações do autor sobre o vídeo durante o carregamento da página;
+* **src** : diretório do audio
 
 ```html
 <audio autoplay controls loop>
