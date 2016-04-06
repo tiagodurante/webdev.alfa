@@ -14,3 +14,7 @@ Cada tópico abaixo representa-rá uma matéria do curso, junto de uma referênc
   - [História](./html5/historia.md)
   - [Novas tags](./html5/novas_tags.md)
   - [Formulários](./html5/forms.md)
+  - [Audio](./html5/audio.md)
+  - [Vídeo](./html5/video.md)
+  - [Storage](./html5/storage.md)
+  - [Geolocalização](./html5/geo.md)
