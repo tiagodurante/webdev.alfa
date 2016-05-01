@@ -33,7 +33,7 @@ Padrão | Significado
 - Os *commits* podem ser referenciados por tags, tornando sua busca mais fácil em meio a tantos no servidor. Execute `git tag <tag> [<id_commit>]`. Você pode verificar todas as tags cadastradas usando o comando `git tag` ou buscar determinada tag com o comando `git tag -l <tag>`.
 
 - Os *commits* podem ser referenciados por:
-  - **<sha1>**: Hash sha-1 referente ao commit, baseado nos primeiros valores do hash. Ex: `hash: aa3c317fa06cf6cfa218b380def17233761d197c`, `sha-1: aa3c317`.
+  - **``<sha1>``**: Hash sha-1 referente ao commit, baseado nos primeiros valores do hash. Ex: `hash: aa3c317fa06cf6cfa218b380def17233761d197c`, `sha-1: aa3c317`.
   - **tag**: tag referente ao commit. Ex: `v0.1.2`.
   - **branch**: ramificação de um repositório. Ex: `master`.
 
