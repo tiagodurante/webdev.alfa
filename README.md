@@ -18,3 +18,9 @@ Cada tópico abaixo representa-rá uma matéria do curso, junto de uma referênc
   - [Vídeo](./html5/video.md)
   - [Storage](./html5/storage.md)
   - [Geolocalização](./html5/geo.md)
+
+
+- **Ferramentas de versionamento**, ministrado pelo professor [Leandro Lanceloti](http://www.linkedin.com/in/leandro-lanceloti-a4850211)
+  - [Teoria](./versionamento/primeira_aula.md)
+  - [Comandos básicos](./versionamento/primeira_aula_comandos.md)
+  - [Branches](./versionamento/primeira_aula_branches.md)
