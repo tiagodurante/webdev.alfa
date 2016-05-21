@@ -24,3 +24,9 @@ Cada tópico abaixo representará uma matéria do curso, junto de uma referênci
   - [Teoria](./versionamento/primeira_aula.md)
   - [Comandos básicos](./versionamento/primeira_aula_comandos.md)
   - [Branches](./versionamento/primeira_aula_branches.md)
+
+
+- **Introdução a javascript**, ministrado pelo professor [Alisson Chiquitto](http://www.linkedin.com/in/chiquitto)
+    - [Introdução](./javascript/introducao.md)
+    - [Operadores](./javascript/operadores.md)
+    - [Estruturas de controller](./javascript/estruturas_controle.md)
