@@ -29,4 +29,4 @@ Cada tópico abaixo representará uma matéria do curso, junto de uma referênci
 - **Introdução a javascript**, ministrado pelo professor [Alisson Chiquitto](http://www.linkedin.com/in/chiquitto)
     - [Introdução](./javascript/introducao.md)
     - [Operadores](./javascript/operadores.md)
-    - [Estruturas de controller](./javascript/estruturas_controle.md)
+    - [Estruturas de controle](./javascript/estruturas_controle.md)
