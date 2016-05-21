@@ -82,7 +82,7 @@ Quando vamos criar variáveis no código JS, precisamos seguir algumas regras b�
   ```
 
 
-  - Caso seja um array de objetos, cada objeto terá seu identificador:
+- Caso seja um array de objetos, cada objeto terá seu identificador:
 
   ```js
     var nomes = [
