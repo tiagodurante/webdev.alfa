@@ -1,6 +1,6 @@
 # Estruturas de controle
 
-As estruturas a seguir permitem modificar o fluxo do Sistemas
+As estruturas a seguir permitem modificar o fluxo do sistema.
 
 _IF..ELSE_, estrutura onde o resultado da comparação de dois ou mais resultados podem influenciar no fluxo.
 
