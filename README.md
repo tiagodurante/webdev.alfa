@@ -32,3 +32,4 @@ Cada tópico abaixo representará uma matéria do curso, junto de uma referênci
     - [Estruturas de controle](./javascript/estruturas_controle.md)
     - [Funções](./javascript/funcoes.md)
     - [Objects Built-in](./javascript/objects_built_in.md)
+    - [HTML DOM](./javascript/dom.md)
