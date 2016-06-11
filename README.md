@@ -30,3 +30,5 @@ Cada tópico abaixo representará uma matéria do curso, junto de uma referênci
     - [Introdução](./javascript/introducao.md)
     - [Operadores](./javascript/operadores.md)
     - [Estruturas de controle](./javascript/estruturas_controle.md)
+    - [Funções](./javascript/funcoes.md)
+    - [Objects Built-in](./javascript/objects_built_in.md)
