@@ -33,3 +33,12 @@ Cada tópico abaixo representará uma matéria do curso, junto de uma referênci
     - [Funções](./javascript/funcoes.md)
     - [Objects Built-in](./javascript/objects_built_in.md)
     - [HTML DOM](./javascript/dom.md)
+
+
+- **Programação orientada a objetos em PHP**, ministrado pelo professor [Er Galvão Abbott](https://github.com/galvao)
+    - [Trabalho Final](https://github.com/tiagodurante/implementacao-concreta-baseada-em-abstracoes-tiagodurante)
+
+
+- **Jquery e Jquery Mobile**, ministrado pelo professor [André Noel](https://twitter.com/programadorreal)
+    - [Exercícios das aulas](https://github.com/tiagodurante/jquery-andrenoel-pos)
+    - [Trabalho Final](https://github.com/tiagodurante/jquery-andrenoel-trabalho-pos)
