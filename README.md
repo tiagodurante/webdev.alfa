@@ -33,6 +33,7 @@ Cada tópico abaixo representará uma matéria do curso, junto de uma referênci
     - [Funções](./javascript/funcoes.md)
     - [Objects Built-in](./javascript/objects_built_in.md)
     - [HTML DOM](./javascript/dom.md)
+    - [Trabalho Final](https://github.com/tiagodurante/trabalho-javascript-chiquitto-pos)
 
 
 - **Programação orientada a objetos em PHP**, ministrado pelo professor [Er Galvão Abbott](https://github.com/galvao)
