@@ -18,6 +18,8 @@ Cada tópico abaixo representará uma matéria do curso, junto de uma referênci
   - [Vídeo](./html5/video.md)
   - [Storage](./html5/storage.md)
   - [Geolocalização](./html5/geo.md)
+  - [Exercício website ramones](https://github.com/tiagodurante/exercicio-ramones-responsivo-pos)
+  - [Exercício website churrasquito](https://github.com/tiagodurante/exercicio-churrasquito-html5-pos)
 
 
 - **Ferramentas de versionamento**, ministrado pelo professor [Leandro Lanceloti](http://www.linkedin.com/in/leandro-lanceloti-a4850211)
