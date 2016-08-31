@@ -45,3 +45,14 @@ Cada tópico abaixo representará uma matéria do curso, junto de uma referênci
 - **Jquery e Jquery Mobile**, ministrado pelo professor [André Noel](https://twitter.com/programadorreal)
     - [Exercícios das aulas](https://github.com/tiagodurante/jquery-andrenoel-pos)
     - [Trabalho Final](https://github.com/tiagodurante/jquery-andrenoel-trabalho-pos)
+
+
+- **MEAN Stack**, ministrado pelo professor [Jean Nascimento (Suissa)](https://github.com/suissa)
+    - [Repositório Completo](https://github.com/tiagodurante/pos-aula-node-js)
+    - [Mongoose](https://github.com/tiagodurante/pos-aula-node-js/tree/master/aula-mongoose)
+    - [Express (e um pouco de eventos)](https://github.com/tiagodurante/pos-aula-node-js/tree/master/aula-express-events)
+    - [TDD em Node.JS](https://github.com/tiagodurante/pos-aula-node-js/tree/master/tdd)
+
+
+- **Ferramentas de Desenvolvimento FrontEnd**, ministrado pelo professor [Anderson Fernandes Burnes](http://professorburnes.com.br/index)
+    - [Aplicação usando Less](https://github.com/tiagodurante/aula-frontend-pos-burnes)
