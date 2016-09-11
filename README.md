@@ -56,3 +56,5 @@ Cada tópico abaixo representará uma matéria do curso, junto de uma referênci
 
 - **Ferramentas de Desenvolvimento FrontEnd**, ministrado pelo professor [Anderson Fernandes Burnes](http://professorburnes.com.br/index)
     - [Aplicação usando Less](https://github.com/tiagodurante/aula-frontend-pos-burnes)
+    - [Aplicação usando Less (Completo)](https://github.com/tiagodurante/aula-frontend-burnes-carsale)
+    - [Utilização de plugins](https://github.com/tiagodurante/aula-frontend-burnes-plugins)
