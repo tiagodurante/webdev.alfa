@@ -53,8 +53,33 @@ Cada tópico abaixo representará uma matéria do curso, junto de uma referênci
     - [Express (e um pouco de eventos)](https://github.com/tiagodurante/pos-aula-node-js/tree/master/aula-express-events)
     - [TDD em Node.JS](https://github.com/tiagodurante/pos-aula-node-js/tree/master/tdd)
 
-
 - **Ferramentas de Desenvolvimento FrontEnd**, ministrado pelo professor [Anderson Fernandes Burnes](http://professorburnes.com.br/index)
     - [Aplicação usando Less](https://github.com/tiagodurante/aula-frontend-pos-burnes)
     - [Trabalho final](https://github.com/tiagodurante/aula-frontend-burnes-carsale)
     - [Utilização de plugins](https://github.com/tiagodurante/aula-frontend-burnes-plugins)
+
+- **Zend Framework 3**, ministrado pelo professor [Elton Minetto](https://twitter.com/eminetto)
+    - [Esqueleto](https://github.com/tiagodurante/skeleton-zf3-aula-pos-minetto)
+    - [Trabalho](https://github.com/tiagodurante/trabalho-zf3-pos-alfa)
+
+- **Objective C**, ministrado pelo professor [Marcos Vendramini](https://www.facebook.com/marcos.diasvendramini)
+    - [Aula 01](https://github.com/tiagodurante/alcool-gasolina-pos-ios)
+    - [Aula 02](https://github.com/tiagodurante/alcool-gasolina-pos-ios-p2)
+    - [Aula 02 - Leitura de JSON](https://github.com/tiagodurante/ler-json-ios-pos)
+    - [Trabalho](https://github.com/tiagodurante/trabalho-final-ios-pos)
+
+- **Desenvolvimento Android**, ministrado pelo professor [Munif Gebara](https://www.facebook.com/munifgebara)
+    - [Aula 01](https://github.com/tiagodurante/meuscarros-pos-android)
+    - [Aula 02 - Ionic](https://github.com/tiagodurante/ionic-imc-pos)
+    - [Aula 02 - Ionic buscando de um servidor Reddit](https://github.com/tiagodurante/ionic-reddit-stories-pos)
+
+- **UX Experience**, ministrado pelo professor [Leandro Lanceloti](http://www.linkedin.com/in/leandro-lanceloti-a4850211)
+    - [Aula 01](https://github.com/tiagodurante/xamarim-forms-01-pos)
+    - [Aula 02](https://github.com/tiagodurante/xamarin-forms-02-pos)
+
+- **C#**, ministrado pelo professor [Marcos Vendramini](https://www.facebook.com/marcos.diasvendramini)
+    - [Aula 01](https://github.com/tiagodurante/csharp-web-aula01)
+    - [Aula 02](https://github.com/tiagodurante/csharp-web-aula02)
+
+- **Desenvolvimento Java para Web**, ministrado pelo professor [Edson Alves de Oliveira](https://www.facebook.com/marcos.diasvendramini)
+    - [Aula 01/02](https://github.com/tiagodurante/spring-mvc-aula02)
